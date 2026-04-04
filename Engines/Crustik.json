@@ -1,6 +1,6 @@
 {
     "private" : false,
-    "nps"     : 4198000,
+    "nps"     : 2500000,
     "source"  : "https://github.com/Dejon51/Crustik",
 
     "build" : {
