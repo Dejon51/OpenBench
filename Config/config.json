@@ -28,6 +28,7 @@
     ],
 
     "engines" : [
+        "Crustik",
         "4ku",
         "Berserk",
         "Bit-Genie",
